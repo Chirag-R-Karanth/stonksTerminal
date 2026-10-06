@@ -1,0 +1,39 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "currency": "USD",
+          "symbol": "AAPL",
+          "exchangeName": "NMS",
+          "regularMarketPrice": 250.5,
+          "chartPreviousClose": 245.0,
+          "previousClose": 245.0,
+          "regularMarketDayHigh": 252.0,
+          "regularMarketDayLow": 244.0,
+          "regularMarketVolume": 50000000,
+          "fiftyTwoWeekHigh": 260.0,
+          "fiftyTwoWeekLow": 150.0
+        },
+        "timestamp": [1736208000, 1736294400, 1736380800],
+        "indicators": {
+          "quote": [
+            {
+              "open": [244.0, 249.0, 250.0],
+              "high": [247.0, 252.0, 253.0],
+              "low": [242.0, 246.0, 249.0],
+              "close": [246.5, 250.0, 250.5],
+              "volume": [48000000, 51000000, 50000000]
+            }
+          ],
+          "adjclose": [
+            {
+              "adjclose": [243.9, 247.4, 248.0]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

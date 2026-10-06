@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Market Wire</title>
+    <link>https://example.com/rss</link>
+    <description>Test feed for unit tests</description>
+    <item>
+      <title>Apple announces new chip</title>
+      <link>https://example.com/stories/apple-chip</link>
+      <guid isPermaLink="false">story-1</guid>
+      <pubDate>Mon, 05 Jan 2026 10:00:00 GMT</pubDate>
+      <description>&lt;p&gt;Apple &lt;b&gt;AAPL&lt;/b&gt; unveiled its next processor today.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft earnings preview</title>
+      <link>https://example.com/stories/msft</link>
+      <guid isPermaLink="false">story-1</guid>
+      <pubDate>Tue, 06 Jan 2026 08:30:00 GMT</pubDate>
+      <description>Analysts wonder whether MSFT can keep growing. Also note GDP and THE consumer outlook.</description>
+    </item>
+  </channel>
+</rss>
